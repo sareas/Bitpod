@@ -1,0 +1,6 @@
+framework module Bitpod {
+  umbrella header "Bitpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
